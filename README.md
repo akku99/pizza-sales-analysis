@@ -1,6 +1,6 @@
-# SQL + Power BI Pizza Sales Analysis Project
+📊 # SQL + Power BI Pizza Sales Analysis Project
 
-## Project Overview
+🚀 ## Project Overview
 This project demonstrates an end-to-end Data Analyst workflow using SQL and Power BI.
 
 The project focuses on:
@@ -47,8 +47,6 @@ from pizza_sales;
 
 ```
 
----
-
 ## Power BI Dashboard Features
 - KPI Cards
 - Sales Trend Analysis
@@ -59,7 +57,7 @@ from pizza_sales;
 
 ---
 
-## Dashboard Preview
+📸 ## Dashboard Preview
 
 ### Overview Dashboard
 <img width="1305" height="713" alt="dasboard1" src="https://github.com/user-attachments/assets/3bcc47b7-f431-41bf-81c9-ef701cc3e30b" />
@@ -98,9 +96,3 @@ from pizza_sales;
 ### Power BI
 1. Open `.pbix` file from `PowerBI/`
 2. Refresh dataset connection
-
----
-
-## Future Improvements
-- Add Python automation
-- Add real-time data refresh
