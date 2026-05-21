@@ -62,10 +62,13 @@ from pizza_sales;
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Dashboard](Screenshots/dashboard1.png)
+<img width="1305" height="713" alt="dasboard1" src="https://github.com/user-attachments/assets/3bcc47b7-f431-41bf-81c9-ef701cc3e30b" />
 
-### Sales Insights
-![Dashboard](Screenshots/dashboard2.png)
+### Best and Worst Sales Insights
+<img width="1307" height="715" alt="dasboard2" src="https://github.com/user-attachments/assets/aa5607fb-888a-447c-8aa5-9185fd22004f" />
+
+### Supreme category Sales Insights
+<img width="1068" height="702" alt="supreme category sales" src="https://github.com/user-attachments/assets/8961a993-363d-4592-a163-d6f42bb7e3d1" />
 
 ---
 
