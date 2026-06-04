@@ -1,6 +1,6 @@
 # 📊 Pizza Sales Analysis Project
 
-🚀 ## Project Overview
+## 🚀 Project Overview
 This project demonstrates an end-to-end Data Analyst workflow using SQL and Power BI.
 
 The project focuses on:
