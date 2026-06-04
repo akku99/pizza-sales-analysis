@@ -57,7 +57,7 @@ from pizza_sales;
 
 ---
 
-📸 ## Dashboard Preview
+## 📸 Dashboard Preview
 
 ### Overview Dashboard
 <img width="1305" height="713" alt="dasboard1" src="https://github.com/user-attachments/assets/3bcc47b7-f431-41bf-81c9-ef701cc3e30b" />
