@@ -12,7 +12,7 @@ The project focuses on:
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 - SQL Server / MySQL
 - Power BI
 - Excel / CSV
@@ -21,7 +21,7 @@ The project focuses on:
 
 ---
 
-## Business Problem
+## 🎯 Business Problem
 The company wants to analyze:
 - Sales performance
 - Daily and Monthly Trend
@@ -47,7 +47,7 @@ from pizza_sales;
 
 ```
 
-## Power BI Dashboard Features
+## 📊 Power BI Dashboard Features
 - KPI Cards
 - Sales Trend Analysis
 - Daily and Monthly Graph analysis
@@ -70,14 +70,14 @@ from pizza_sales;
 
 ---
 
-## Key Insights
+## 📌 Key Insights
 - Orders are highest on Weekends
 - Maximum orders are from July and January
 - Classic category and Large size pizza contributes to maximum sales.
 
 ---
 
-## Project Workflow
+## 📌 Project Workflow
 1. Data Collection
 2. SQL Data Cleaning
 3. SQL Analysis
